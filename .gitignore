@@ -1,0 +1,6 @@
+cdb_env/
+__pycache__/
+*.pyc
+.env
+db/cortex.duckdb
+results.py
