@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 .env
 db/cortex.duckdb
+db/audit.sqlite
 results.py
